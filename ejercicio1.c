@@ -11,7 +11,7 @@ int main()
         
         if (a>b)
         {   
-            printf("a es mayor");
+            printf("a es mayor \n");
         }
         return 0;
     }
